@@ -16,7 +16,7 @@ Python (pandas, scikit-learn, python-dotenv), Git, Jupyter Notebook.
 1.  **Клонирование:** `git clone https://github.com/Peqpsi/ml_project.git`
 2.  **Окружение:** `python -m venv .venv` и активация (`.venv\Scripts\activate` или `source .venv/bin/activate`).
 3.  **Зависимости:** `pip install -r requirements.txt`.
-4.  **Данные:** Скачать `train.csv` и `eval.csv` ([например, с Google Cloud Storage](https://www.kaggle.com/datasets/syedanabilaakter/titanic-dataset-for-linear-regression-practice?select=train.csv)), поместить в `./data/`. Обновить `envs/.params.env` с путями к этим файлам.
+4.  **Данные:** Скачать `train.csv` и `eval.csv` ([Titanic Dataset](https://www.kaggle.com/datasets/syedanabilaakter/titanic-dataset-for-linear-regression-practice?select=train.csv)), поместить в `./data/`. Обновить `envs/.params.env` с путями к этим файлам.
 5.  **Выполнение:** Запустить Jupyter (`jupyter lab` или `jupyter notebook`), открыть `main.ipynb` и выполнить все ячейки.
 
 ## Демонстрация Git
